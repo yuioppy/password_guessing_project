@@ -1,0 +1,5 @@
+As a targeted password guessing model, leverage the old password to infer possible updates such as case changes, numeric suffixes, year substitutions, or symbol replacements. 
+Focus on realistic modifications that users typically make when changing their passwords.
+
+json
+{"Old password": "..."}
